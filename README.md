@@ -1,1 +1,1 @@
-# all-setup
+# all-setups
