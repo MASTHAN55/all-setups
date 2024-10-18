@@ -1,2 +1,0 @@
-amazon-linux-extras install java-openjdk11 -y
-yum install git java-1.8.0-openjdk maven -y
