@@ -1,5 +1,5 @@
-# installing java-11
+#step-1: installing java-11
 amazon-linux-extras install java-openjdk11 -y
 
-# installing git, maven and java
+#set-2: installing git, maven and java
 yum install git java-1.8.0-openjdk maven -y
