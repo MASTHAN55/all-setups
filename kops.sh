@@ -1,6 +1,6 @@
 #vim .bashrc
 #export PATH=$PATH:/usr/local/bin/
-#source .bashrc
+#source .bashrc (Do-out)
 
 
 #! /bin/bash
