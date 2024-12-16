@@ -29,3 +29,4 @@ sudo systemctl start jenkins
 
 # Check Jenkins service status
 sudo systemctl status jenkins
+chconfig jenkins on
