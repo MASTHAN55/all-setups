@@ -6,8 +6,8 @@ Welcome to the **ultimate** collection of automated scripts that simplify the in
 
 ## 📄 Table of Contents
 
-- [Docker Installation](#docker-installation)
-- [Ansible Setup](#ansible-setup)
+- [Docker Installation](https://github.com/MASTHAN55/all-setups/blob/main/Docker%20installation%20-setup)
+- [Ansible Setup](https://github.com/MASTHAN55/all-setups/blob/main/ansible)
 - [Database Scripts](#database-scripts)
 - [Monitoring & Logging](#monitoring--logging)
 - [Kubernetes & Cloud](#kubernetes--cloud)
