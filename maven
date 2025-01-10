@@ -1,0 +1,1 @@
+yum install git java-1.8.0-openjdk maven tree -y
