@@ -1,4 +1,4 @@
-#create amazonlinux ec2 with t2.micro and 30 gb of ebs with port 8081 
+#create amazonlinux ec2 with t2.medium and 30 gb of ebs with port 8081 
 
 sudo yum update -y
 sudo yum install wget -y
